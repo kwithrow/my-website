@@ -77,12 +77,12 @@ body {
 }
 
 a {
-  color: #black;
+  color: #93a35f;
   text-decoration: none;
 }
 
 a:hover {
-  color: #93a35f
+  color: black
 }
 
 .post, .about {
